@@ -4,10 +4,10 @@ Marketing site for Precision Christmas Lighting. Plain HTML, CSS, and JavaScript
 
 ## Pages
 
-- `index.html` — hero, scroll-driven 3D house stage, work portfolio with View more, five-step process, quote call to action
+- `index.html` — hero, scroll-driven 3D lightbulb stage, work portfolio with Show more, five-step process, quote call to action
 - `quote.html` — quote form with required-field validation and an on-page success state
 
-The 3D stage loads Three.js from a CDN (`js/model-scroll.js`) and rotates a house with eaves lights as you scroll. Pointer movement also tilts the model.
+The 3D stage loads Three.js from a CDN (`js/model-scroll.js`) and spins a lightbulb as you scroll.
 
 ## Run locally
 
